@@ -73,3 +73,7 @@ crashlytics-build.properties
 Assets/Samples/
 .idea/
 Assets/TutorialInfo/
+Assets/TextMesh Pro/
+.utmp/
+Assets/Sketchfab For Unity/
+Assets/Import/
